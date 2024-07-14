@@ -1,0 +1,6 @@
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/bin/Debug/net48/Csv-library.dll
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/bin/Debug/net48/Csv-library.pdb
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/obj/Debug/net48/Csv-library.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/obj/Debug/net48/Csv-library.csproj.CoreCompileInputs.cache
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/obj/Debug/net48/Csv-library.dll
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/obj/Debug/net48/Csv-library.pdb

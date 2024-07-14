@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/Csv-library.csproj": {}
+  },
+  "projects": {
+    "/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/Csv-library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/Csv-library.csproj",
+        "projectName": "Csv-library",
+        "projectPath": "/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/Csv-library.csproj",
+        "packagesPath": "/home/lukascumkubuntu/.nuget/packages/",
+        "outputPath": "/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lukascumkubuntu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

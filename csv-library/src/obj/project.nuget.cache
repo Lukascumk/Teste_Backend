@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+TaxzAjfyWM=",
+  "success": true,
+  "projectFilePath": "/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/CsvProcessorCOMLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/lukascumkubuntu/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/home/lukascumkubuntu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

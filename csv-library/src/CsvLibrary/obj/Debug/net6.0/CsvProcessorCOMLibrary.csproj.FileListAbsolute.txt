@@ -1,0 +1,9 @@
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/CsvLibrary/bin/Debug/net6.0/CsvProcessorCOMLibrary.deps.json
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/CsvLibrary/bin/Debug/net6.0/CsvProcessorCOMLibrary.dll
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/CsvLibrary/bin/Debug/net6.0/CsvProcessorCOMLibrary.pdb
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/CsvLibrary/obj/Debug/net6.0/CsvProcessorCOMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/CsvLibrary/obj/Debug/net6.0/CsvProcessorCOMLibrary.csproj.CoreCompileInputs.cache
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/CsvLibrary/obj/Debug/net6.0/CsvProcessorCOMLibrary.dll
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/CsvLibrary/obj/Debug/net6.0/refint/CsvProcessorCOMLibrary.dll
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/CsvLibrary/obj/Debug/net6.0/CsvProcessorCOMLibrary.pdb
+/home/lukascumkubuntu/157513ed4e3a29171072f846b0ba3d77f6f9376e/csv-library/src/CsvLibrary/obj/Debug/net6.0/ref/CsvProcessorCOMLibrary.dll
